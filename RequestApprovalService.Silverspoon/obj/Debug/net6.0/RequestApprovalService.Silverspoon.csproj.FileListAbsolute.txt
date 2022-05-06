@@ -1,0 +1,16 @@
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Silverspoon\bin\Debug\net6.0\RequestApprovalService.Silverspoon.deps.json
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Silverspoon\bin\Debug\net6.0\RequestApprovalService.Silverspoon.dll
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Silverspoon\bin\Debug\net6.0\ref\RequestApprovalService.Silverspoon.dll
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Silverspoon\bin\Debug\net6.0\RequestApprovalService.Silverspoon.pdb
+D:\UNI\ITU\Blockchain\RequestApprovalService\bin\AnyCPU\Debug\net6.0\RequestApprovalService.Silverspoon.deps.json
+D:\UNI\ITU\Blockchain\RequestApprovalService\bin\AnyCPU\Debug\net6.0\RequestApprovalService.Silverspoon.dll
+D:\UNI\ITU\Blockchain\RequestApprovalService\bin\AnyCPU\Debug\net6.0\ref\RequestApprovalService.Silverspoon.dll
+D:\UNI\ITU\Blockchain\RequestApprovalService\bin\AnyCPU\Debug\net6.0\RequestApprovalService.Silverspoon.pdb
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Silverspoon\obj\Debug\net6.0\RequestApprovalService.Silverspoon.csproj.AssemblyReference.cache
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Silverspoon\obj\Debug\net6.0\RequestApprovalService.Silverspoon.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Silverspoon\obj\Debug\net6.0\RequestApprovalService.Silverspoon.AssemblyInfoInputs.cache
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Silverspoon\obj\Debug\net6.0\RequestApprovalService.Silverspoon.AssemblyInfo.cs
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Silverspoon\obj\Debug\net6.0\RequestApprovalService.Silverspoon.csproj.CoreCompileInputs.cache
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Silverspoon\obj\Debug\net6.0\RequestApprovalService.Silverspoon.dll
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Silverspoon\obj\Debug\net6.0\ref\RequestApprovalService.Silverspoon.dll
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Silverspoon\obj\Debug\net6.0\RequestApprovalService.Silverspoon.pdb

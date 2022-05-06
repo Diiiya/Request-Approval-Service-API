@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bfmG0/8ZuuNdsHibA/KX1ERvBjsy2rZ3gKxi3V/6PQ0=",
+  "Source": "RequestApprovalService",
+  "BasePath": "_content/RequestApprovalService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

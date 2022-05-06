@@ -1,0 +1,17 @@
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\bin\Debug\net6.0\RequestApprovalService.Contracts.deps.json
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\bin\Debug\net6.0\RequestApprovalService.Contracts.dll
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\bin\Debug\net6.0\ref\RequestApprovalService.Contracts.dll
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\bin\Debug\net6.0\RequestApprovalService.Contracts.pdb
+D:\UNI\ITU\Blockchain\RequestApprovalService\bin\AnyCPU\Debug\net6.0\RequestApprovalService.Contracts.deps.json
+D:\UNI\ITU\Blockchain\RequestApprovalService\bin\AnyCPU\Debug\net6.0\RequestApprovalService.Contracts.dll
+D:\UNI\ITU\Blockchain\RequestApprovalService\bin\AnyCPU\Debug\net6.0\ref\RequestApprovalService.Contracts.dll
+D:\UNI\ITU\Blockchain\RequestApprovalService\bin\AnyCPU\Debug\net6.0\RequestApprovalService.Contracts.pdb
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\obj\Debug\net6.0\RequestApprovalService.Contracts.csproj.AssemblyReference.cache
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\obj\Debug\net6.0\RequestApprovalService.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\obj\Debug\net6.0\RequestApprovalService.Contracts.AssemblyInfoInputs.cache
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\obj\Debug\net6.0\RequestApprovalService.Contracts.AssemblyInfo.cs
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\obj\Debug\net6.0\RequestApprovalService.Contracts.csproj.CoreCompileInputs.cache
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\obj\Debug\net6.0\RequestApprovalService.Contracts.csproj.CopyComplete
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\obj\Debug\net6.0\RequestApprovalService.Contracts.dll
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\obj\Debug\net6.0\ref\RequestApprovalService.Contracts.dll
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Contracts\obj\Debug\net6.0\RequestApprovalService.Contracts.pdb

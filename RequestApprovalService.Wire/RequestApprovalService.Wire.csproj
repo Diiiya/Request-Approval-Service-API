@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<OutputPath>$(SolutionDir)bin\$(Platform)\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\RequestApprovalService.Domain\RequestApprovalService.Domain.csproj" />
+		<ProjectReference Include="..\RequestApprovalService.Persistence\RequestApprovalService.Persistence.csproj" />
+		<ProjectReference Include="..\RequestApprovalService.Silverspoon\RequestApprovalService.Silverspoon.csproj" />
+	</ItemGroup>
+
+</Project>

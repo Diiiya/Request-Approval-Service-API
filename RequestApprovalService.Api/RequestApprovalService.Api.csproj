@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<OutputPath>$(SolutionDir)bin\$(Platform)\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="MediatR" Version="10.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\RequestApprovalService.Persistence\RequestApprovalService.Persistence.csproj" />
+		<ProjectReference Include="..\RequestApprovalService.Repositories\RequestApprovalService.Repositories.csproj" />
+		<ProjectReference Include="..\RequestApprovalService.Silverspoon\RequestApprovalService.Silverspoon.csproj" />
+	</ItemGroup>
+
+</Project>

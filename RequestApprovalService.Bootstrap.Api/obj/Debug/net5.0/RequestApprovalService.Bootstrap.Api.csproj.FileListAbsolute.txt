@@ -1,0 +1,5 @@
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Bootstrap.Api\obj\Debug\net5.0\RequestApprovalService.Bootstrap.Api.csproj.AssemblyReference.cache
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Bootstrap.Api\obj\Debug\net5.0\RequestApprovalService.Bootstrap.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Bootstrap.Api\obj\Debug\net5.0\RequestApprovalService.Bootstrap.Api.AssemblyInfoInputs.cache
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Bootstrap.Api\obj\Debug\net5.0\RequestApprovalService.Bootstrap.Api.AssemblyInfo.cs
+D:\UNI\ITU\Blockchain\RequestApprovalService\RequestApprovalService.Bootstrap.Api\obj\Debug\net5.0\RequestApprovalService.Bootstrap.Api.csproj.CoreCompileInputs.cache
